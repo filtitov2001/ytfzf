@@ -19,11 +19,11 @@ thumb_dir="$YTFZF_CACHE"/thumb
 [ -d $thumb_dir ] || mkdir -p $thumb_dir
 
 
-## player settings
+## player settings hi
 player="mpv"
 player_format="mpv --ytdl-format="
 
-## misc
+## misc how
 FZF_DEFAULT_OPTS=""
 
 helpinfo () {
