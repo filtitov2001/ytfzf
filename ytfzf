@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# https://github.com/pystardust/ytfzf
+# https://github.com/pystardust/ytfzf branch1
 
 # DEFAULTS
 [ -z "$YTFZF_HIST" ] && YTFZF_HIST=1
