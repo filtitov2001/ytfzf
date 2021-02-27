@@ -3,7 +3,7 @@
 # https://github.com/pystardust/ytfzf branch2
 
 
-# DEFAULTS
+# DEFAULTS coommit_branch2
 [ -z "$YTFZF_HIST" ] && YTFZF_HIST=1
 [ -z "$YTFZF_LOOP" ] && YTFZF_LOOP=0
 [ -z "$YTFZF_CUR" ] && YTFZF_CUR=1
@@ -12,7 +12,7 @@
 [ -z "$YTFZF_EXTMENU" ] && YTFZF_EXTMENU='dmenu -i -l 30 -p Search:'
 [ -z "$YTFZF_EXTMENU_LEN" ] && YTFZF_EXTMENU_LEN=220
 
-## files and directories
+## files and directories hello
 history_file="$YTFZF_CACHE"/ytfzf_hst
 current_file="$YTFZF_CACHE"/ytfzf_cur
 thumb_dir="$YTFZF_CACHE"/thumb
